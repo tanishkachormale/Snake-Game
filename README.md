@@ -4,8 +4,7 @@ A fun browser-based Snake Game built using HTML, CSS, and JavaScript. It feature
 
 ## 🚀 Live Demo
 
-Play here: [The Snake Game]([https://your-live-link.com](https://thesnakesgame.netlify.app/))  
-*(Replace with your actual live URL or GitHub Pages link)*
+Play here: [The Snake Game](https://thesnakesgame.netlify.app/)
 
 ## 🎮 Features
 
